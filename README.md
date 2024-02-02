@@ -1,2 +1,2 @@
 # Проект "Оно тебе надо"
-[Ссылка на проект](https://github.com/Smesharik97/ono-tebe-nado)
+[ttps://github.com/Smesharik97/ono-tebe-nado](https://github.com/Smesharik97/ono-tebe-nado)
