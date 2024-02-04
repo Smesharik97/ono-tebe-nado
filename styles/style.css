@@ -31,6 +31,8 @@
 .header__address {
   justify-self: end;
   list-style-type: none;
+  width: 240px;
+  line-height: 23px;
 }
 
 .header__address a {
@@ -91,18 +93,18 @@
 .cover__description-text {
   font-size: 22px;
   text-transform: uppercase;
-  word-spacing: 22px;
+  word-spacing: 0.9em;
   z-index: 1;
   font-weight: 400;
-  padding-left: 30px;
+  padding-left: 28px;
 }
 
 .bet-button {
   border: 1px solid white;
   z-index: 1;
   height: 100%;
-  background-color: transparent;
   font-size: 22px;
+  background-color: transparent;
   text-transform: uppercase;
   color: white;
   font-weight: 500;
@@ -192,7 +194,7 @@
 }
 
 .about__title {
-  margin: 100px 0;
+  padding: 100px 0;
   font-size: 40px;
   text-transform: uppercase;
 }
@@ -215,6 +217,7 @@
 
 .footer__address {
   list-style-type: none;
+  line-height: 23px;
 }
 
 .footer__address a {
