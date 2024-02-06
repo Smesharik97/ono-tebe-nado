@@ -1,6 +1,6 @@
 .header {
   display: grid;
-  grid-template-columns: 1fr 148px 1fr;
+  grid-template-columns: 1fr 129px 1fr;
   align-items: center;
   margin-left: 50px;
   margin-right: 50px;
@@ -109,7 +109,6 @@
 .bet-button {
   border: 1px solid white;
   z-index: 1;
-  height: 100%;
   font-size: 22px;
   background-color: transparent;
   text-transform: uppercase;
