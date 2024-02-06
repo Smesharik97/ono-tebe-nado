@@ -80,17 +80,22 @@
   text-transform: uppercase;
   align-items: center;
   z-index: 1;
-  line-height: 115px;
   gap: 20px;
   padding-top: 115px;
 }
 
 .aligned-text {
   align-self: start;
+  line-height: 115px;
+}
+
+.aligned-text_center{
+  line-height: 100px;
 }
 
 .aligned-text_right {
   align-self: end;
+  line-height: 100px;
 }
 
 .letter-spacing-extended {
