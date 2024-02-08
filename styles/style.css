@@ -41,15 +41,12 @@
   list-style-type: none;
   width: 240px;
   line-height: 23px;
+  font-style: normal;
 }
 
 .address a {
   text-decoration: none;
   border-bottom: 1px solid;
-}
-
-.address p {
-  font-style: normal;
 }
 
 .cover {
@@ -122,7 +119,7 @@
   background-color: transparent;
   text-transform: uppercase;
   color: white;
-  font-weight: bold;
+  font-weight: normal;
   font-family: Raleway, sans-serif;
   height: 50px;
 }
@@ -139,10 +136,9 @@
 
 .lots__card-list {
   display: flex;
-  justify-content: center;
   list-style-type: none;
   gap: 24px;
-  margin: 30px 0;
+  margin: 30px 24px;
   color: white;
   flex-wrap: wrap;
 }
@@ -261,7 +257,7 @@
 }
 
 .footer__menu-link_active {
-  border-bottom: none;;
+  border-bottom: none;
 }
 
 .footer__social-list {
